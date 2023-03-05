@@ -1,0 +1,63 @@
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.exe
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.deps.json
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.runtimeconfig.json
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.AssemblyReference.cache
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.Form1.resources
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.GenerateResource.cache
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfoInputs.cache
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfo.cs
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.CoreCompileInputs.cache
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\refint\Final Programacion I V2.0.dll
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.genruntimeconfig.cache
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\ref\Final Programacion I V2.0.dll
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormAlumnos.resources
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormProfesores.resources
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormMaterias.resources
+C:\Users\galot\Documents\UAI\1er año\2do Cuatrimestre\Programacion 1\Final Programacion I\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormCursos.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.exe
+C:\Users\Batata\Desktop\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.deps.json
+C:\Users\Batata\Desktop\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.runtimeconfig.json
+C:\Users\Batata\Desktop\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\Batata\Desktop\Final Programacion I V2.0\bin\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.AssemblyReference.cache
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.Form1.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormAlumnos.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormCursos.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormMaterias.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormProfesores.resources
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.GenerateResource.cache
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfoInputs.cache
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfo.cs
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.CoreCompileInputs.cache
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\refint\Final Programacion I V2.0.dll
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\Final Programacion I V2.0.genruntimeconfig.cache
+C:\Users\Batata\Desktop\Final Programacion I V2.0\obj\Debug\net6.0-windows\ref\Final Programacion I V2.0.dll
+C:\Users\lauta\Desktop\Final Programacion 1\bin\Debug\net6.0-windows\Final Programacion I V2.0.exe
+C:\Users\lauta\Desktop\Final Programacion 1\bin\Debug\net6.0-windows\Final Programacion I V2.0.deps.json
+C:\Users\lauta\Desktop\Final Programacion 1\bin\Debug\net6.0-windows\Final Programacion I V2.0.runtimeconfig.json
+C:\Users\lauta\Desktop\Final Programacion 1\bin\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\lauta\Desktop\Final Programacion 1\bin\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.Form1.resources
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormAlumnos.resources
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormCursos.resources
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormMaterias.resources
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final_Programacion_I_V2._0.FormProfesores.resources
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.dll
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\refint\Final Programacion I V2.0.dll
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.pdb
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\Final Programacion I V2.0.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Final Programacion 1\obj\Debug\net6.0-windows\ref\Final Programacion I V2.0.dll
